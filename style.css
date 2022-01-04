@@ -101,3 +101,16 @@ body #rabbi{
    margin-right: 20px;
    text-align: justify;
 }
+.copyright{
+   font-size: 20px;
+   background-color: ;
+   width: 50%;
+   margin-left: 300px;
+   margin-bottom: 0px;
+   text-align: center;
+   height: 30px;
+   display: inline-grid;
+   border-top: 5px solid;
+   border-image: linear-gradient(#f6b73c, #4d9f0c) 30;
+   border-image-slice: 50;
+}
